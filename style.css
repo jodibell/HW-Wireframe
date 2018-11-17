@@ -26,7 +26,7 @@ h1, p {
     padding: 10px;
 }
 
-container {
+.container {
     width: 100%;
 }
 
@@ -38,8 +38,8 @@ section {
 
 aside {
     float: left;
-    height: 249px;
     width: 345px;
+    height: 247px;
 }
 
 footer {
